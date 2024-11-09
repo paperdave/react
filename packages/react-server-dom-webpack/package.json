@@ -51,6 +51,7 @@
     "./client.edge": "./client.edge.js",
     "./client.node": "./client.node.js",
     "./client.node.unbundled": "./client.node.unbundled.js",
+    "./client.browser.unbundled": "./client.browser.unbundled.js",
     "./server": {
       "react-server": {
         "workerd": "./server.edge.js",
